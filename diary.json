@@ -1,0 +1,79 @@
+{
+    "impegni generali": {
+        "name": [
+            "viaggio",
+            "estetista",
+            "dentista",
+            "chiropratico"
+        ],
+        "description": [
+            "viaggio a Valencia",
+            "depilazione con ceretta",
+            "visita denti",
+            "visita schiena"
+        ],
+        "date": [
+            "2019-01-02 00:00:00",
+            "2020-01-21 00:00:00",
+            "2022-08-29 00:00:00",
+            "2024-12-07 00:00:00"
+        ]
+    },
+    "impegni macchina": {
+        "name": [
+            "cambio gomme",
+            "assicurazione",
+            "cambio gomme",
+            "revisione"
+        ],
+        "description": [
+            "cambio gomme da invernali a estive",
+            "rinnovo assicurazione",
+            "cambio gomme da estive ad invernali",
+            "revisione dal meccanico"
+        ],
+        "date": [
+            "2020-09-21 00:00:00",
+            "2021-01-01 00:00:00",
+            "2023-04-05 00:00:00",
+            "2023-11-15 00:00:00"
+        ]
+    },
+    "impegni universita": {
+        "name": [
+            "tesi",
+            "revisine",
+            "esame",
+            "tirocinio"
+        ],
+        "description": [
+            "consegna della documentazione tesi",
+            "revisione della presentazione",
+            "appello di RPL",
+            "consegna documentazione tirocinio"
+        ],
+        "date": [
+            "2019-12-04 00:00:00",
+            "2021-11-07 00:00:00",
+            "2022-01-01 00:00:00",
+            "2024-12-07 00:00:00"
+        ]
+    },
+    "impegni lavoro": {
+        "name": [
+            "visita",
+            "colloquio",
+            "riunione"
+        ],
+        "description": [
+            "visita impianto",
+            "colloquio di lavoro",
+            "riunione progetto"
+        ],
+        "date": [
+            "2019-09-12 00:00:00",
+            "2021-04-21 00:00:00",
+            "2022-06-17 00:00:00"
+        ]
+    }
+}
