@@ -22,7 +22,7 @@ def finestra_principale ():
       print (name_diary)
 
     print ("\naltre azioni:")
-    print ("visualizza impegni")       # vi è la possibilita' di fisualizzare tutti gli impegni di tutte le collezioni
+    print ("visualizza impegni")       # vi è la possibilita' di visualizzare tutti gli impegni di tutte le collezioni
     print ("gestisci collezione")      # posso modificare, eliminare o creare un nuovo diario
     print ("chiudi")
     comando = input ("\ninserisci comando: ")      # inserimento comando
